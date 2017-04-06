@@ -20,7 +20,7 @@ If the probability value of a data point is less than a threshold value, it is d
 ### RESULT:
 A model that can detect anomalous behavior in a network of computers has been built. This model is not constrained by the dimension of the data. Hence the same model can be trained on datasets with additional features and can be used to detect anomalies in the high dimensional dataset. The detected anomalies are marked in red as shown below.
 
-![ANOMALY DETECTION](https://github.com/thiagunagu/Anomaly-detection/blob/master/Anomaly%20Detection.png)
+![ANOMALY DETECTION](https://github.com/thiagunagu/Anomaly-detection/raw/master/anomaly.jpg)
 
 ### APPENDIX:
 
@@ -31,4 +31,4 @@ SelectThreshold-Function to select threshold value
 
 ### FORMULAE:
 
-![FORMULAE](https://github.com/thiagunagu/Anomaly-detection/blob/master/Formulas.JPG)
+![FORMULAE](https://github.com/thiagunagu/Anomaly-detection/raw/master/Formulas.JPG)
