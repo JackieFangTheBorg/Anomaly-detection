@@ -1,4 +1,4 @@
-Welcome to the Anomaly-detection wiki!
+## This project is a part of Coursera's "Machine learning course by Andrew Ng". About 50-60 % of the code was provided by coursera.
 
 ### OBJECTIVE: 
 To build an algorithm to detect failing servers (anomalous behavior) in a network of computers.
